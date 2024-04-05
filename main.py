@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 
+# Headers derrived from: https://doi.org/10.7910/DVN/O35FW8
 column_headers = ([
   "gender", 
   "race", 
